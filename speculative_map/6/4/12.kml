@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>6/4/12.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Folder>
+      <Region>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+        <LatLonAltBox>
+          <north>-50.95217578629901</north>
+          <south>-60.87893149504524</south>
+          <east>-130.36622145626885</east>
+          <west>-140.29297716501509</west>
+        </LatLonAltBox>
+      </Region>
+      <GroundOverlay>
+        <drawOrder>12</drawOrder>
+        <Icon>
+          <href>../../6/4/12.png</href>
+        </Icon>
+        <LatLonBox>
+          <north>-50.95217578629901</north>
+          <south>-60.87893149504524</south>
+          <east>-130.36622145626885</east>
+          <west>-140.29297716501509</west>
+        </LatLonBox>
+      </GroundOverlay>
+    </Folder>
+  </Document>
+</kml>
